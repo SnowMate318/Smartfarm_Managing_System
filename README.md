@@ -1,5 +1,6 @@
 # Smartfarm_Managing_System
 2024 임베디드 소프트웨어 경진대회 (스마트팜 농장관리 시스템)
+
 팀 정보 및 프로젝트 관리는 [여기](https://github.com/WebOS-TEAM-DEVMONSTER)에서 확인해주세요
 
 
@@ -22,6 +23,7 @@
 
 ---
 
+
 ### 주요 화면
 
 ![Image](https://github.com/user-attachments/assets/fa5e3f2b-7012-463e-826d-faaa321e5476)
@@ -35,13 +37,16 @@
 
 ![Image](https://github.com/user-attachments/assets/39be4eae-a30e-425e-a7b4-dfc9b1d0449b)
 
+
 ## 개발 정보
 
 ---
 
+
 ### 개발 기간
 
 - 2024.07 ~ 2024.10
+
 
 ### 개발 인원
 
@@ -51,11 +56,13 @@
     - 백엔드  및 센서정보 전달 1명
     - 농장상태 추론 모델개발 1명
 
+
 ### 핵심 기능
 
 - JWT 기반 회원가입 및 로그인 기능
 - 스마트팜 내부 온습도, 토양상태, 식물상태 모니터링
 - 온습도, 토양상태, 식물상태를 기반으로 현재 농장의 운영상태 평가
+
 
 ### 지원자 개인 기여
 
