@@ -1,5 +1,5 @@
-# Smartfarm_Managing_System
-## 2024 임베디드 소프트웨어 경진대회 (스마트팜 농장관리 시스템)
+# 스마트팜 농장관리 시스템
+## 2024 임베디드 소프트웨어 경진대회
 
 팀 정보 및 프로젝트 관리는 [여기](https://github.com/WebOS-TEAM-DEVMONSTER)에서 확인해주세요
 
